@@ -5,9 +5,10 @@ img {
 body {
     background: #161616;
     font-family: 'Times New Roman', Times, serif;
-    margin: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top: #f0f0f0;
     color: #756ca4;
-    border-top: 30px solid #f0f0f0;
 }
 
 h1 {
