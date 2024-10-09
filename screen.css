@@ -11,3 +11,8 @@ body {
 h1 {
     color: #d9d2ff;
 }
+
+.details section p {
+    margin: 20px;
+    color: #756ca4;
+}
