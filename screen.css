@@ -5,14 +5,18 @@ img {
 body {
     background: #161616;
     font-family: 'Times New Roman', Times, serif;
-    color: #a199cb;
+    
+    color: #756ca4;
 }
 
 h1 {
     color: #d9d2ff;
 }
 
-.details section p {
-    margin: 20px;
-    color: #5d5585;
+h2 {
+    color: #a199cb;
+}
+
+h3 {
+    color: #a199cb;
 }
